@@ -1,5 +1,5 @@
                             
-                                         ####   Stock index prices and Macroeconomic factors   #### 
+                               ####   Stock index prices and Macroeconomic factors   #### 
                                          
 The aim of this project is to analyze how major macroeconomic factors can affect the movement of stock index price.
 
